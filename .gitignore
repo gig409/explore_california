@@ -6,3 +6,4 @@ log/*.log
 !assets/videos/tour_*.mp4
 assets/photoshop/
 assets/videos/
+tempfile.txt
