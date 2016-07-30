@@ -1,1 +1,8 @@
 .idea
+.DS_Store
+*.zip
+*.gz
+log/*.log
+!assets/videos/tour_*.mp4
+assets/photoshop/
+assets/videos/
